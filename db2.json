@@ -1,0 +1,20 @@
+{
+    
+    "usuarios":[
+        {
+            "id": 1,
+            "username": "ba.fierro",
+            "password": "bastian123",
+            "nombre": "Bastian",
+            "email": "ba.fierro@duocuc.cl"
+        },
+        {
+            "id": 2,
+            "username": "da.santibanez",
+            "password": "daniel123",
+            "nombre": "Daniel",
+            "email": "da.santibanez@duocuc.cl"
+        }
+    ]
+        
+}
