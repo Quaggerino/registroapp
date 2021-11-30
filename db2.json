@@ -1,6 +1,4 @@
-{
-    
-    "usuarios":[
+[
         {
             "id": 1,
             "username": "ba.fierro",
@@ -16,5 +14,3 @@
             "email": "da.santibanez@duocuc.cl"
         }
     ]
-        
-}
