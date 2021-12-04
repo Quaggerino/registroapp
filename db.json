@@ -1,20 +1,22 @@
 {
     
-        "horario": [
-            {
-                "idAsignatura": "CSY4111",
-                "nombre": "Calidad de Software",
-                "horaInicio": "22:16",
-                "horaTermino": "23:45",
-                "estado": "ausente"
-            },
-            {
-                "idAsignatura": "PGY4121",
-                "nombre": "Programación de aplicaciones móviles",
-                "horaInicio": "19:15",
-                "horaTermino": "21:30",
-                "estado": "ausente"
-            }
-        ]
-        
+    "horario": [
+        {
+            "idAsignatura": "ASY4131",
+            "nombre": "Arquitectura de Software",
+            "horaInicio": "19:15",
+            "horaTermino": "21:30",
+            "profesor": "Sebastian Saavedra Espinosa",
+            "sede": "Viña del mar"
+        },
+        {
+            "idAsignatura": "PGY4121",
+            "nombre":  "Programación de aplicaciones móviles",
+            "horaInicio": "22:16",
+            "horaTermino": "23:45",
+            "profesor": "Nancy Bernal Sanchez",
+            "sede": "Viña del mar"
+        }
+    ]
+    
 }
